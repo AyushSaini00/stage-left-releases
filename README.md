@@ -1,3 +1,5 @@
+<img src="icon.png" width="128" alt="Stage Left icon">
+
 # Stage Left
 
 A tiny macOS menu bar app for people who use **Stage Manager**. It snaps every
