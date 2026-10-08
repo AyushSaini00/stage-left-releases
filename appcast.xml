@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Stage Left</title>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Thu, 08 Oct 2026 17:36:31 -0000</pubDate>
+      <sparkle:version>0.2.0</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Adds an app icon and automatic updates.</p>]]></description>
+      <enclosure url="https://github.com/AyushSaini00/stage-left-releases/releases/download/v0.2.0/StageLeft-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="UR1ptnGkeuISIKLPFYVl6eBRBtVnyHSkwW5b/d0D/LK7XGUmYktGm+NdMZaSeBFOpQmXtXCmZhG2yPF2xmTyBQ==" length="1928895" />
+    </item>
+  </channel>
+</rss>
